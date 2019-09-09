@@ -1,4 +1,4 @@
-# Elliptic Curve Integrated Encryption Scheme libraries
+# ECIES libraries
 
 - [Python](https://github.com/ecies/py)
 - [TypeScript](https://github.com/ecies/js)
